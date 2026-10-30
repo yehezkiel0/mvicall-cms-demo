@@ -1,0 +1,6 @@
+{
+  "name": "MViCall Admin CMS",
+  "description": "Prototipe CMS Admin MViCall (Aplikasi Video-Ringtone & VRBT Indonesia) dengan manajemen transaksi, langganan, moderasi video, dan kontrol peran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
